@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+/*
+Copyright 2013, Nirlendu Saha and Pruthvi Prakasha.
+Licensed to free distribution and usage.
+*/
+>>>>>>> ae711b360709599fb362dc880c25a36807bbfb6a
 using UnityEngine;
 using System;
 using System.Collections;
@@ -52,7 +59,11 @@ public class ZigSkeleton : MonoBehaviour
     private Vector3 rootPosition;
 
 private Quaternion[] previousSmoothedValue ;
+<<<<<<< HEAD
 private Quaternion[] currentSmoothedValue ;	
+=======
+private Quaternion[] currentSmoothedValue ;  
+>>>>>>> ae711b360709599fb362dc880c25a36807bbfb6a
 private Quaternion[] previousTrendValue ;
 private Quaternion[] currentTrendValue ;
 
